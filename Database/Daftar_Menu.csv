@@ -1,0 +1,46 @@
+ID_Menu,Nama_Menu,Harga_Menu,Jenis_Menu
+01,Bacon Egg and Cheese Biscuit,35000,makanan
+02,Egg Muffin,30000,makanan
+03,Sausage Muffin,30000,makanan
+04,Sausage Biscuit,25000,makanan
+05,Sausage Biscuit with Egg,30000,makanan
+06,Hotcakes,20000,makanan
+07,Sausage Burrito,35000,makanan
+08,Hash Browns,15000,makanan
+09,Fruit and Maple Oatmeal,20000,makanan
+10,Big Burger,40000,makanan
+11,Burger Cheese Deluxe,35000,makanan
+12,Double Burger,35000,makanan
+13,Cheese Burger,35000,makanan
+14,Double Cheese Burger,40000,makanan
+15,Beef Burger,40000,makanan
+16,Nuggets (10 pcs),20000,makanan
+17,Fish Burger,30000,makanan
+18,French Fries,15000,makanan
+19,Chicken Sandwich,25000,makanan
+20,Hot Dog,20000,makanan
+21,cheese cat,20000,makanan
+22,Bacon Dog,20000,makanan
+23,Bacon Cheese Dog,25000,makanan
+24,Spaghetti Bolognese,45000,makanan
+25,Fried Chicken,28000,makanan
+26,Chicken Sandwich,27000,makanan
+27,Caesar Salad,30000,makanan
+28,Onion Rings,20000,makanan
+29,Mozarella Sticks,25000,makanan
+30,Chicken Wrap,30000,makanan
+31,Baked Apple Pie,25000,makanan
+32,Vanilla Cone,15000,makanan
+33,Strawberry Banana Smoothie,17000,minuman
+34,Chocolate Shake,17000,minuman
+35,Mango Pineapple Smoothie,17000,minuman
+36,Vanilla Shake,17000,minuman
+37,Lemonade,17000,minuman
+38,Strawberry Shake,17000,minuman
+39,Ocha Iced Tea,17000,minuman
+40,Caramel Macchiato,17000,minuman
+41,Cappucino,17000,minuman
+42,Caramel Cappucino,19000,minuman
+43,Mocha Latte,17000,minuman
+44,Hot Chocolate,17000,minuman
+45,Mineral Water,7000,minuman
