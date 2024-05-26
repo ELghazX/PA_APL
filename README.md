@@ -1,7 +1,7 @@
 # PA APL
 Proyek Akhir Algoritma dan Pemrograman Lanjut
 ============================================================
-KELOMPOK A2_K5
+KELOMPOK K5_A2
 ***************
 Konsep program yang kami kerjakan di sini adalah sebuah sistem CRUD dengan 2 jenis user yaitu: Admin, dan Pelanggan.
 
